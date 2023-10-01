@@ -1,4 +1,9 @@
 this is a sample text file.
 this is meant for aws practice.
+This is the 2nd Midification in the file from Linux Platform.
 This is the 2nd modifition to the file from windows platform for the first time
+
 This is 4th modification done to simulate conflict resolution during merging from a windows platform.
+
+This is the 3rd modification done to simulate merging coflicts. done on linux platform.
+
